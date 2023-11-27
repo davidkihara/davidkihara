@@ -2,7 +2,7 @@
 <tbody>
  <tr>
   <td>
-   <img src="https://github-readme-stats.vercel.app/api?username=c3n7&show_icons=true&theme=github_dark"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=davidkihara&show_icons=true&theme=github_dark"/>
   </td>
   
   <td rowspan="2">
