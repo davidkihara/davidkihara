@@ -6,14 +6,14 @@
   </td>
   
   <td rowspan="2">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3n7&layout=compact&theme=github_dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkihara&layout=compact&theme=github_dark"/>
   </td>
 
  </tr>
  <tr>
   
   <td>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=c3n7&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=davidkihara&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
   </td>
  </tr>
 </tbody>
